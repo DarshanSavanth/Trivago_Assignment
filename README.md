@@ -13,7 +13,7 @@ Maven must be setup on the local machine to run the test
 
 The following steps must be followed to install and run the tests successfully
 
-Navigate to the repository with link: https://github.com/DarshanSavanth/Usabilla_Assignment
+Navigate to the repository with link: https://github.com/DarshanSavanth/Trivago_Assignment.git
 
 And click on 'clone or download'
 
